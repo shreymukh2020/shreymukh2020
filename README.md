@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreymukh2020
+- 👋 Hi, I’m Shreyashi @shreymukh2020
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m a Graduate in Data Science and Analytics from J Mack Robinson College of Business, Georgia State University, Atlanta, GA
 - 💞️ I’m looking to collaborate on Machine Learning, Deep learning, Predictive modelling, Financial Analytics, Risk Analytics, Graph Analytics and Natural Language Processing projects.
